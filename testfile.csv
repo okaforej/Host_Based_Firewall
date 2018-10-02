@@ -1,0 +1,16 @@
+OUTbound,tcp,80,192.168.10.2
+INbound,tcp,80,192.168.10.2
+inbound,Udp,80,192.168.10.2
+inbound,TCp,80,192.168.10.2
+inbound,tcp,84,....
+outbound,udp,85-54,192.168.10.5
+inbound,tcp,84,192.168.
+outbound,udp,0,192.168.10.5
+outbound,udp,65536,192.168.10.5
+outbound,udp,1-65535,192.168.10.5
+outbound,udp,1,192.168.10.5
+outbound,udp,83,255.255.255.255
+outbound,udp,80,0.0.0.0
+inbound,tcp,80,192.168.10.2
+outbound,udp, 80, 192.168.10.1-192.168.10.4
+inbound,tcp,900,192.168.10.44-192.168.10.5
